@@ -2,7 +2,7 @@
 
 🎓 Pursuing MCA in Cyber Security
 
-🔐 VAPT Intern at CyArt Tech | CEH v13 | CPT v4
+🔐 VAPT | CEH v13 | CPT v4
 
 I'm passionate about offensive security, web application penetration testing, network reconnaissance, and vulnerability research. I'm continuously developing my practical skills through authorized security labs and hands-on projects.
 
